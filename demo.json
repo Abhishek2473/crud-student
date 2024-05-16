@@ -1,0 +1,34 @@
+{
+  "dataa": [
+    {
+      "id": "6601",
+      "dept": "cse",
+      "name": "hello",
+      "email": "hello@gmail.com"
+    },
+    {
+      "id": "6662",
+      "dept": "mech",
+      "name": "Charlie",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": "6653",
+      "dept": "aiml",
+      "name": "sravya",
+      "email": "sravya@gmail.com"
+    },
+    {
+      "id": "1123",
+      "dept": "IT",
+      "name": "sssssss",
+      "email": "shdfghdghdjk.v"
+    },
+    {
+      "id": "99",
+      "dept": "ss",
+      "name": "djh",
+      "email": "fcjhsdjfdsfh"
+    }
+  ]
+}
